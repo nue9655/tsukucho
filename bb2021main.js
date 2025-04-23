@@ -11,10 +11,10 @@
 const injectedText = (function () {
     const _value = String.raw`{
   "bb2021Version": "2.5.0.0",
-  "generateDateTime": "2025/04/23 21:59:31",
+  "generateDateTime": "2025/04/23 22:03:33",
   "defStock": 15,
   "clearPageHref": "",
-  "passwordHash": "",
+  "passwordHash": "b99dab67eb7cf2c9937fe1887b8d94526ce9052d67572ba7040bd189bf34c80a",
   "wallpaperName": "",
   "eventList": [
     {
@@ -368,9 +368,9 @@ const injectedText = (function () {
         "BGM": "\u591C\u306E\u722A\u75D5.mp3",
         "ItemSe": "\u30AD\u30E9\u30C31.mp3",
         "PadSe": "\u30AD\u30E9\u30C31.mp3",
-        "WallSe": "xmfia1mj.e1f",
-        "HoldoffSe": "xpwcvyqw.a5u",
-        "FailSe": "2fomsm2a.j1n",
+        "WallSe": "foalmg2h.s43",
+        "HoldoffSe": "qq4edvuo.zxf",
+        "FailSe": "bv5dulxe.xfq",
         "StageClearSe": "Lum_chan.mp3",
         "GameClearSe": "Lum_chan.mp3"
       },
